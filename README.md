@@ -16,7 +16,7 @@ like React.js, Node.js, MongoDB, PostgreSQL, Oracle SQL, Unix Shell, and JavaScr
   - GraphQL – Modern API query language  
   - TypeScript – Superset of JavaScript for robust coding  
   - Next.js – React framework for building modern web applications  
-- 📄 **Know about my experiences:** [will be given](will%20be%20given)  
+- 📄 **Know about my experiences:** [Coming Soon...](will%20be%20given)  
 
 ---
 
