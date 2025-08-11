@@ -4,7 +4,7 @@
 
 <h1 align="center">Hello 👋, I'm Shubham Rawat</h1>
 <p>
-I'm a MERN Stack Developer passionate about building responsive, interactive, and scalable web applications. I work with technologies
+I'm a MERN, PERN Stack Developer passionate about building responsive, interactive, and scalable web applications. I work with technologies
 like React.js, Node.js, MongoDB, PostgreSQL, Oracle SQL, Unix Shell, and JavaScript to deliver efficient full-stack solutions.
 </p>
 
