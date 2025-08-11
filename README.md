@@ -30,8 +30,8 @@ I work with technologies like React.js, Node.js, MongoDB, PostgreSQL, Oracle SQL
 <a href="https://www.leetcode.com/shubhi35" target="_blank" rel="noopener noreferrer">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
 </a>
-<a href="https://www.hackerearth.com/shubhr68350" target="_blank" rel="noopener noreferrer">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="HackerEarth" height="30" width="40" />
+<a href=https://www.hackerrank.com/profile/shubhr68350" target="_blank" rel="noopener noreferrer">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerEarth" height="30" width="40" />
 </a>
 </p>
 
