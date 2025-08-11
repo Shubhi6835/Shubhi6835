@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="350" height="350" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXo3eW1rYXZqeGp6MGFmMWh6YnJtYXE3NmVyYW9jOXg2MDV2aW1reSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Banner" />
+  <img width="350" height="250" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXo3eW1rYXZqeGp6MGFmMWh6YnJtYXE3NmVyYW9jOXg2MDV2aW1reSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Banner" />
 </p>
 
 <h1 align="center">Hello 👋, I'm Shubham Rawat</h1>
